@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "murderdronesmusic:item/music_disc_uzi_and_n_the_drone_killers"
+  }
+}

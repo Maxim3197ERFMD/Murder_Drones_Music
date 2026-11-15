@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_youre_freakin_grounded.desc"
+  },
+  "length_in_seconds": 118.0,
+  "sound_event": "murderdronesmusic:youre_freakin_grounded"
+}

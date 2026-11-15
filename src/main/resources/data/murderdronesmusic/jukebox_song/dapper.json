@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_dapper.desc"
+  },
+  "length_in_seconds": 126.0,
+  "sound_event": "murderdronesmusic:dapper"
+}

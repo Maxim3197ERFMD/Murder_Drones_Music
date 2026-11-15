@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_both_very_scary.desc"
+  },
+  "length_in_seconds": 66.0,
+  "sound_event": "murderdronesmusic:both_very_scary"
+}

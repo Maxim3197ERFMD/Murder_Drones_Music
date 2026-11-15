@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_absolute_solver.desc"
+  },
+  "length_in_seconds": 95.0,
+  "sound_event": "murderdronesmusic:absolute_solver"
+}

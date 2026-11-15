@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_gimme_a_hand.desc"
+  },
+  "length_in_seconds": 88.0,
+  "sound_event": "murderdronesmusic:gimme_a_hand"
+}

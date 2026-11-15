@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_uzi_needs_a_time_out.desc"
+  },
+  "length_in_seconds": 46.0,
+  "sound_event": "murderdronesmusic:uzi_needs_a_time_out"
+}

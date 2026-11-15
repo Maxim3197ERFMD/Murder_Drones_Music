@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "murderdronesmusic:item/music_disc_haha_yea_dude_thats_sick"
+  }
+}

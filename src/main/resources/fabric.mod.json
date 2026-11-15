@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "murderdronesmusic",
+	"version": "${version}",
+	"name": "Murder Drones Music",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Maxim3197",
+		"Sith"
+	],
+	"license": "MIT",
+	"icon": "assets/murderdronesmusic/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.erfmd.murderdronesmusic.MurderDronesMusic"
+		],
+		"client": [
+			"net.erfmd.murderdronesmusic.MurderDronesMusicClient"
+		],
+		"fabric-datagen": [
+			"net.erfmd.murderdronesmusic.MurderDronesMusicDataGenerator"
+		]
+	},
+	"mixins": [
+		"murderdronesmusic.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.21",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

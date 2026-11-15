@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_the_knife_dance.desc"
+  },
+  "length_in_seconds": 71.0,
+  "sound_event": "murderdronesmusic:the_knife_dance"
+}

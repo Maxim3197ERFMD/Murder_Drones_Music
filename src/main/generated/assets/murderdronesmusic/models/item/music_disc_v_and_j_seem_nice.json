@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "murderdronesmusic:item/music_disc_v_and_j_seem_nice"
+  }
+}

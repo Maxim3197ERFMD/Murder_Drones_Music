@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_heart_emoji.desc"
+  },
+  "length_in_seconds": 73.0,
+  "sound_event": "murderdronesmusic:heart_emoji"
+}

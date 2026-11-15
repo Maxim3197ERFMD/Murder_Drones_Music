@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_space_girl.desc"
+  },
+  "length_in_seconds": 55.0,
+  "sound_event": "murderdronesmusic:space_girl"
+}

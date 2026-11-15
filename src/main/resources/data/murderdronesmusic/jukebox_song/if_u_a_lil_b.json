@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_if_u_a_lil_b.desc"
+  },
+  "length_in_seconds": 62.0,
+  "sound_event": "murderdronesmusic:if_u_a_lil_b"
+}

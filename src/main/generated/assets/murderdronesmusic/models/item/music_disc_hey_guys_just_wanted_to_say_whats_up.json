@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "murderdronesmusic:item/music_disc_hey_guys_just_wanted_to_say_whats_up"
+  }
+}

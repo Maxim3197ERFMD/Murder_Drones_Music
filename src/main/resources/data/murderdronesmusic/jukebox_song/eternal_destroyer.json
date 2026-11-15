@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_eternal_destroyer.desc"
+  },
+  "length_in_seconds": 148.0,
+  "sound_event": "murderdronesmusic:eternal_destroyer"
+}

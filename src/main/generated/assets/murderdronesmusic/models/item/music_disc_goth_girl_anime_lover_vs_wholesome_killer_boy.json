@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "murderdronesmusic:item/music_disc_goth_girl_anime_lover_vs_wholesome_killer_boy"
+  }
+}

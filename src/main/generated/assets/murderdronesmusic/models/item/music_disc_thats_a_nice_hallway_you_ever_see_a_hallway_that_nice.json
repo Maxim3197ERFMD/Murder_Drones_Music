@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "murderdronesmusic:item/music_disc_thats_a_nice_hallway_you_ever_see_a_hallway_that_nice"
+  }
+}

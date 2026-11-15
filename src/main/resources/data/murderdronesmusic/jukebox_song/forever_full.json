@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_forever_full.desc"
+  },
+  "length_in_seconds": 310.0,
+  "sound_event": "murderdronesmusic:forever_full"
+}

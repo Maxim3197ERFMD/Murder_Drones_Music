@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_when_you_forget_to_pray.desc"
+  },
+  "length_in_seconds": 85.0,
+  "sound_event": "murderdronesmusic:when_you_forget_to_pray"
+}

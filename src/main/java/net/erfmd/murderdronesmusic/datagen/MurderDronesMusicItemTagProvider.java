@@ -1,0 +1,105 @@
+package net.erfmd.murderdronesmusic.datagen;
+
+import net.erfmd.murderdronesmusic.item.MurderDronesMusicItems;
+import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
+import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
+import net.minecraft.registry.RegistryWrapper;
+import net.minecraft.registry.tag.ItemTags;
+
+import java.util.concurrent.CompletableFuture;
+
+public class MurderDronesMusicItemTagProvider extends FabricTagProvider.ItemTagProvider {
+    public MurderDronesMusicItemTagProvider(FabricDataOutput output, CompletableFuture<RegistryWrapper.WrapperLookup> completableFuture) {
+        super(output, completableFuture);
+    }
+
+    @Override
+    protected void configure(RegistryWrapper.WrapperLookup arg) {
+        getOrCreateTagBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .add(MurderDronesMusicItems.MUSIC_DISC_DISASSEMBLY_REQUIRED)
+                .add(MurderDronesMusicItems.MUSIC_DISC_MURDER_BRINGS)
+                .add(MurderDronesMusicItems.MUSIC_DISC_MURDER_DRONES)
+                .add(MurderDronesMusicItems.MUSIC_DISC_UZI_DOESNT_READ_THE_ASSIGNMENT)
+                .add(MurderDronesMusicItems.MUSIC_DISC_THAD_IS_CHILL)
+                .add(MurderDronesMusicItems.MUSIC_DISC_UZI_THE_DRONE_KILLER)
+                .add(MurderDronesMusicItems.MUSIC_DISC_WHISPERS_IN_THE_SKY)
+                .add(MurderDronesMusicItems.MUSIC_DISC_GOTH_GIRL_ANIME_LOVER_VS_WHOLESOME_KILLER_BOY)
+                .add(MurderDronesMusicItems.MUSIC_DISC_N_DISASSEMBLY_DRONES_LEADER)
+                .add(MurderDronesMusicItems.MUSIC_DISC_V_AND_J_SEEM_NICE)
+                .add(MurderDronesMusicItems.MUSIC_DISC_THE_PLOT)
+                .add(MurderDronesMusicItems.MUSIC_DISC_GIN_RUMMY)
+                .add(MurderDronesMusicItems.MUSIC_DISC_THE_DAD_ENING)
+                .add(MurderDronesMusicItems.MUSIC_DISC_THE_PLOT_2_THIS_TIME_ITS_PERSONAL)
+                .add(MurderDronesMusicItems.MUSIC_DISC_CLICK)
+                .add(MurderDronesMusicItems.MUSIC_DISC_THE_DAD_ENING_2_ITS_ACTUALLY_PERSONAL)
+                .add(MurderDronesMusicItems.MUSIC_DISC_UZI_NEEDS_A_TIME_OUT)
+                .add(MurderDronesMusicItems.MUSIC_DISC_SPOOKY_FLASHBACK_OOOOO)
+                .add(MurderDronesMusicItems.MUSIC_DISC_BUDDIES_CHILLIN)
+                .add(MurderDronesMusicItems.MUSIC_DISC_HEART_EMOJI)
+                .add(MurderDronesMusicItems.MUSIC_DISC_BUDDIES_CHILLIN_BUT_OUTSIDE)
+                .add(MurderDronesMusicItems.MUSIC_DISC_GIMME_A_HAND)
+                .add(MurderDronesMusicItems.MUSIC_DISC_AAAAHHH)
+                .add(MurderDronesMusicItems.MUSIC_DISC_ELDRITCH_J_XD)
+                .add(MurderDronesMusicItems.MUSIC_DISC_DOLL)
+                .add(MurderDronesMusicItems.MUSIC_DISC_GIMME_AN_ARM)
+                .add(MurderDronesMusicItems.MUSIC_DISC_UUUGGHHH)
+                .add(MurderDronesMusicItems.MUSIC_DISC_DAPPER)
+                .add(MurderDronesMusicItems.MUSIC_DISC_BATHTUB)
+                .add(MurderDronesMusicItems.MUSIC_DISC_GET_PROMMED)
+                .add(MurderDronesMusicItems.MUSIC_DISC_THE_KNIFE_DANCE)
+                .add(MurderDronesMusicItems.MUSIC_DISC_YUM_YUM)
+                .add(MurderDronesMusicItems.MUSIC_DISC_SPACE_GIRL)
+                .add(MurderDronesMusicItems.MUSIC_DISC_RADIO)
+                .add(MurderDronesMusicItems.MUSIC_DISC_CAMPING)
+                .add(MurderDronesMusicItems.MUSIC_DISC_IM_CONFUSED)
+                .add(MurderDronesMusicItems.MUSIC_DISC_LITERALLY_JUST_NOISE)
+                .add(MurderDronesMusicItems.MUSIC_DISC_SOLVER_UZI)
+                .add(MurderDronesMusicItems.MUSIC_DISC_FALLING_FOR_YOU)
+                .add(MurderDronesMusicItems.MUSIC_DISC_MAGIC_SCHOOL_BUS)
+                .add(MurderDronesMusicItems.MUSIC_DISC_GR_ENERGY)
+                .add(MurderDronesMusicItems.MUSIC_DISC_CRISS_CROSS_APPLE_SAUCE)
+                .add(MurderDronesMusicItems.MUSIC_DISC_THE_HUMAN_GALA)
+                .add(MurderDronesMusicItems.MUSIC_DISC_DARKXWOLF17)
+                .add(MurderDronesMusicItems.MUSIC_DISC_LIVE_LAUGH_LOVE)
+                .add(MurderDronesMusicItems.MUSIC_DISC_FRUMPLEBUCKET)
+                .add(MurderDronesMusicItems.MUSIC_DISC_YOU_DIDNT_HA)
+                .add(MurderDronesMusicItems.MUSIC_DISC_BOTH_VERY_SCARY)
+                .add(MurderDronesMusicItems.MUSIC_DISC_GENTLE)
+                .add(MurderDronesMusicItems.MUSIC_DISC_ETERNAL_DREAM)
+                .add(MurderDronesMusicItems.MUSIC_DISC_THE_PLOT_3_IM_STILL_CONFUSED)
+                .add(MurderDronesMusicItems.MUSIC_DISC_OK_YEA_THATS_PRETTY_DARK)
+                .add(MurderDronesMusicItems.MUSIC_DISC_WOW_OK_THATS_PRETTY_DARK)
+                .add(MurderDronesMusicItems.MUSIC_DISC_EARTH)
+                .add(MurderDronesMusicItems.MUSIC_DISC_SENTINAL_000D)
+                .add(MurderDronesMusicItems.MUSIC_DISC_HUGGIE_WUGGIES)
+                .add(MurderDronesMusicItems.MUSIC_DISC_THATS_A_NICE_HALLWAY_YOU_EVER_SEE_A_HALLWAY_THAT_NICE)
+                .add(MurderDronesMusicItems.MUSIC_DISC_HEH_NOTHING_PERSONAL_KID)
+                .add(MurderDronesMusicItems.MUSIC_DISC_MATH_AND_SCIENCE)
+                .add(MurderDronesMusicItems.MUSIC_DISC_GAMER_MOM)
+                .add(MurderDronesMusicItems.MUSIC_DISC_WHEN_YOU_FORGET_TO_PLAY)
+                .add(MurderDronesMusicItems.MUSIC_DISC_IPOD_4TH_GEN)
+                .add(MurderDronesMusicItems.MUSIC_DISC_HEY_GUYS_JUST_WANTED_TO_SAY_WHATS_UP)
+                .add(MurderDronesMusicItems.MUSIC_DISC_RUN)
+                .add(MurderDronesMusicItems.MUSIC_DISC_UR_AIGHT)
+                .add(MurderDronesMusicItems.MUSIC_DISC_NORI)
+                .add(MurderDronesMusicItems.MUSIC_DISC_DOLL_WARN)
+                .add(MurderDronesMusicItems.MUSIC_DISC_YOURE_FREAKIN_GROUNDED)
+                .add(MurderDronesMusicItems.MUSIC_DISC_HAND_OUT)
+                .add(MurderDronesMusicItems.MUSIC_DISC_ABSOLUTE_SOLVER)
+                .add(MurderDronesMusicItems.MUSIC_DISC_DIE_MAD)
+                .add(MurderDronesMusicItems.MUSIC_DISC_IF_U_A_LIL_B)
+                .add(MurderDronesMusicItems.MUSIC_DISC_FALLING_WITH_YOU)
+                .add(MurderDronesMusicItems.MUSIC_DISC_ETERNAL_DESTROYER)
+                .add(MurderDronesMusicItems.MUSIC_DISC_UZI_AND_N_THE_DRONE_KILLERS)
+                .add(MurderDronesMusicItems.MUSIC_DISC_SYS_CYN_CALLBACKPING_UZI)
+                .add(MurderDronesMusicItems.MUSIC_DISC_K)
+                .add(MurderDronesMusicItems.MUSIC_DISC_BITE_ME)
+                .add(MurderDronesMusicItems.MUSIC_DISC_HAHA_YEA_DUDE_THATS_SICK)
+                .add(MurderDronesMusicItems.MUSIC_DISC_FOREVER)
+                .add(MurderDronesMusicItems.MUSIC_DISC_BITE_ME_NORMAL_PITCH)
+                .add(MurderDronesMusicItems.MUSIC_DISC_BITE_ME_NIGHTCORED_AGAIN)
+                .add(MurderDronesMusicItems.MUSIC_DISC_FOREVER_FULL_VERSION)
+                .add(MurderDronesMusicItems.MUSIC_DISC_FIGHT_TIL_IM_GOOD_ENOUGH)
+                .add(MurderDronesMusicItems.MUSIC_DISC_STARGAZING_WITH_MURDEROUS_DRONE_INTENT);
+    }
+}

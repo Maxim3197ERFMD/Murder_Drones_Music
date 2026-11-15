@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.murderdronesmusic.music_disc_uzi_the_drone_killer.desc"
+  },
+  "length_in_seconds": 28.0,
+  "sound_event": "murderdronesmusic:uzi_the_drone_killer"
+}

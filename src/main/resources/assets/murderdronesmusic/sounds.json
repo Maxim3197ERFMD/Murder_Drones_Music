@@ -1,0 +1,682 @@
+{
+  "disassembly_required": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:disassembly_required",
+        "stream": true
+      }
+    ]
+  },
+  "murder_brings": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:murder_brings",
+        "stream": true
+      }
+    ]
+  },
+  "murder_drones": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:murder_drones",
+        "stream": true
+      }
+    ]
+  },
+  "uzi_doesnt_read_the_assignment": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:uzi_doesnt_read_the_assignment",
+        "stream": true
+      }
+    ]
+  },
+  "thad_is_chill": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:thad_is_chill",
+        "stream": true
+      }
+    ]
+  },
+  "uzi_the_drone_killer": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:uzi_the_drone_killer",
+        "stream": true
+      }
+    ]
+  },
+  "whispers_in_the_sky": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:whispers_in_the_sky",
+        "stream": true
+      }
+    ]
+  },
+  "goth_girl_anime_lover_vs_wholesome_killer_boy": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:goth_girl_anime_lover_vs_wholesome_killer_boy",
+        "stream": true
+      }
+    ]
+  },
+  "n_disassembly_drones_leader": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:n_disassembly_drones_leader",
+        "stream": true
+      }
+    ]
+  },
+  "v_and_j_seem_nice": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:v_and_j_seem_nice",
+        "stream": true
+      }
+    ]
+  },
+  "the_plot": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:the_plot",
+        "stream": true
+      }
+    ]
+  },
+  "gin_rummy": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:gin_rummy",
+        "stream": true
+      }
+    ]
+  },
+  "the_dad_ening": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:the_dad_ening",
+        "stream": true
+      }
+    ]
+  },
+  "the_plot_2_this_time_its_personal": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:the_plot_2_this_time_its_personal",
+        "stream": true
+      }
+    ]
+  },
+  "click": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:click",
+        "stream": true
+      }
+    ]
+  },
+  "the_dad_ening_2_its_actually_personal": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:the_dad_ening_2_its_actually_personal",
+        "stream": true
+      }
+    ]
+  },
+  "uzi_needs_a_time_out": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:uzi_needs_a_time_out",
+        "stream": true
+      }
+    ]
+  },
+  "spooky_flashback_ooooo": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:spooky_flashback_ooooo",
+        "stream": true
+      }
+    ]
+  },
+  "buddies_chillin": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:buddies_chillin",
+        "stream": true
+      }
+    ]
+  },
+  "heart_emoji": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:heart_emoji",
+        "stream": true
+      }
+    ]
+  },
+  "buddies_chillin_but_outside": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:buddies_chillin_but_outside",
+        "stream": true
+      }
+    ]
+  },
+  "gimme_a_hand": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:gimme_a_hand",
+        "stream": true
+      }
+    ]
+  },
+  "aaaahhh": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:aaaahhh",
+        "stream": true
+      }
+    ]
+  },
+  "eldritch_j_xd": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:eldritch_j_xd",
+        "stream": true
+      }
+    ]
+  },
+  "doll": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:doll",
+        "stream": true
+      }
+    ]
+  },
+  "gimme_an_arm": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:gimme_an_arm",
+        "stream": true
+      }
+    ]
+  },
+  "uuugghhh": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:uuugghhh",
+        "stream": true
+      }
+    ]
+  },
+  "dapper": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:dapper",
+        "stream": true
+      }
+    ]
+  },
+  "bathtub": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:bathtub",
+        "stream": true
+      }
+    ]
+  },
+  "get_prommed": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:get_prommed",
+        "stream": true
+      }
+    ]
+  },
+  "the_knife_dance": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:the_knife_dance",
+        "stream": true
+      }
+    ]
+  },
+  "yum_yum": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:yum_yum",
+        "stream": true
+      }
+    ]
+  },
+  "space_girl": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:space_girl",
+        "stream": true
+      }
+    ]
+  },
+  "98.7": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:98.7",
+        "stream": true
+      }
+    ]
+  },
+  "camping.mp3": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:camping.mp3",
+        "stream": true
+      }
+    ]
+  },
+  "im_confused": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:im_confused",
+        "stream": true
+      }
+    ]
+  },
+  "literally_just_noise": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:literally_just_noise",
+        "stream": true
+      }
+    ]
+  },
+  "solver_uzi": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:solver_uzi",
+        "stream": true
+      }
+    ]
+  },
+  "falling_for_you": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:falling_for_you",
+        "stream": true
+      }
+    ]
+  },
+  "magic_school_bus": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:magic_school_bus",
+        "stream": true
+      }
+    ]
+  },
+  "gr_energy": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:gr_energy",
+        "stream": true
+      }
+    ]
+  },
+  "criss_cross_apple_sauce": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:criss_cross_apple_sauce",
+        "stream": true
+      }
+    ]
+  },
+  "the_human_gala": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:the_human_gala",
+        "stream": true
+      }
+    ]
+  },
+  "darkxwolf17": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:darkxwolf17",
+        "stream": true
+      }
+    ]
+  },
+  "live_laugh_love": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:live_laugh_love",
+        "stream": true
+      }
+    ]
+  },
+  "frumplebucket": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:frumplebucket",
+        "stream": true
+      }
+    ]
+  },
+  "you_didnt_ha": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:you_didnt_ha",
+        "stream": true
+      }
+    ]
+  },
+  "both_very_scary": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:both_very_scary",
+        "stream": true
+      }
+    ]
+  },
+  "gentle": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:gentle",
+        "stream": true
+      }
+    ]
+  },
+  "eternal_dream": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:eternal_dream",
+        "stream": true
+      }
+    ]
+  },
+  "the_plot_3_im_still_confused": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:the_plot_3_im_still_confused",
+        "stream": true
+      }
+    ]
+  },
+  "ok_yea_thats_pretty_dark": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:ok_yea_thats_pretty_dark",
+        "stream": true
+      }
+    ]
+  },
+  "wow_okay_thats_pretty_dark": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:wow_okay_thats_pretty_dark",
+        "stream": true
+      }
+    ]
+  },
+  "earth": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:earth",
+        "stream": true
+      }
+    ]
+  },
+  "sentinal_000d": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:sentinal_000d",
+        "stream": true
+      }
+    ]
+  },
+  "huggie_wuggies": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:huggie_wuggies",
+        "stream": true
+      }
+    ]
+  },
+  "thats_a_nice_hallway_you_ever_see_a_hallway_that_nice": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:thats_a_nice_hallway_you_ever_see_a_hallway_that_nice",
+        "stream": true
+      }
+    ]
+  },
+  "heh_nothing_personal_kid": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:heh_nothing_personal_kid",
+        "stream": true
+      }
+    ]
+  },
+  "math_and_science": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:math_and_science",
+        "stream": true
+      }
+    ]
+  },
+  "gamer_mom": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:gamer_mom",
+        "stream": true
+      }
+    ]
+  },
+  "when_you_forget_to_pray": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:when_you_forget_to_pray",
+        "stream": true
+      }
+    ]
+  },
+  "ipod_4th_gen": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:ipod_4th_gen",
+        "stream": true
+      }
+    ]
+  },
+  "hey_guys_just_wanted_to_say_whats_up": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:hey_guys_just_wanted_to_say_whats_up",
+        "stream": true
+      }
+    ]
+  },
+  "run": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:run",
+        "stream": true
+      }
+    ]
+  },
+  "ur_aight": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:ur_aight",
+        "stream": true
+      }
+    ]
+  },
+  "nori": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:nori",
+        "stream": true
+      }
+    ]
+  },
+  "doll_warn": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:doll_warn",
+        "stream": true
+      }
+    ]
+  },
+  "youre_freakin_grounded": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:youre_freakin_grounded",
+        "stream": true
+      }
+    ]
+  },
+  "hand_out": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:hand_out",
+        "stream": true
+      }
+    ]
+  },
+  "absolute_solver": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:absolute_solver",
+        "stream": true
+      }
+    ]
+  },
+  "die_mad": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:die_mad",
+        "stream": true
+      }
+    ]
+  },
+  "if_u_a_lil_b": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:if_u_a_lil_b",
+        "stream": true
+      }
+    ]
+  },
+  "falling_with_you": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:falling_with_you",
+        "stream": true
+      }
+    ]
+  },
+  "eternal_destroyer": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:eternal_destroyer",
+        "stream": true
+      }
+    ]
+  },
+  "uzi_and_n_the_drone_killers": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:uzi_and_n_the_drone_killers",
+        "stream": true
+      }
+    ]
+  },
+  "sys_cyn_callbackping_uzi": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:sys_cyn_callbackping_uzi",
+        "stream": true
+      }
+    ]
+  },
+  "k": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:k",
+        "stream": true
+      }
+    ]
+  },
+  "bite_me": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:bite_me",
+        "stream": true
+      }
+    ]
+  },
+  "haha_yea_dude_thats_sick": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:haha_yea_dude_thats_sick",
+        "stream": true
+      }
+    ]
+  },
+  "forever": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:forever",
+        "stream": true
+      }
+    ]
+  },
+  "bite_me_normal_pitch": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:bite_me_normal_pitch",
+        "stream": true
+      }
+    ]
+  },
+  "bite_me_nightcored_again": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:bite_me_nightcored_again",
+        "stream": true
+      }
+    ]
+  },
+  "forever_full": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:forever_full",
+        "stream": true
+      }
+    ]
+  },
+  "fight_til_im_good_enough": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:fight_til_im_good_enough",
+        "stream": true
+      }
+    ]
+  },
+  "stargazing_with_murderous_drone_intent": {
+    "sounds": [
+      {
+        "name": "murderdronesmusic:stargazing_with_murderous_drone_intent",
+        "stream": true
+      }
+    ]
+  }
+}
